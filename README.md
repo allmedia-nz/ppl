@@ -1,13 +1,13 @@
 # ppl
 Piratical Programming Language - specification (humour)
-// A piratical programming language makes use of commonly used pirate terms to make programming more enjoyable.
-// Main concepts
-// Variables names are enclosed in single quotes eg 'module'
-// The reserved word "me" is not parsed and has no meaning but makes the code more piratical.
-// all statements end in the reserved word "Arrgh!"
-// "Avast!" is a halt command like end, Scupper = exit
-// Try = "Maties"  Catch = "Swabs"
-// A ppl module is a "Good Ship" it includes
+  // A piratical programming language makes use of commonly used pirate terms to make programming more enjoyable.
+  // Main concepts
+  // Variables names are enclosed in single quotes eg 'module'
+  // The reserved word "me" is not parsed and has no meaning but makes the code more piratical.
+  // all statements end in the reserved word "Arrgh!"
+  // "Avast!" is a halt command like end, Scupper = exit
+  // Try = "Maties"  Catch = "Swabs"
+  // A ppl module is a "Good Ship" it includes
 // With Booty = parameters
 // Parley = require/include and APIs
 // The "Scurvy Crew" (user) object is native
